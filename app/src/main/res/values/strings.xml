@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UAS 180030041 1</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="status_tersedia">Tersedia</string>
+    <string name="status_habis">Habis</string>
+
+</resources>
+
